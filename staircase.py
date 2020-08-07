@@ -1,0 +1,1 @@
+[print("{0}{1}".format(' '*(n-x-1), '#'* (x+1))) for x in range(n)]
